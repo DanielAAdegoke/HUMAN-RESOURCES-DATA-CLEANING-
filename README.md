@@ -17,15 +17,15 @@ The project commenced with a thorough examination of the structure and character
 
  <h1 style="font-size: 20px;">2. Changing Date Formats </h1>
 
-<h1 style="font-size: 20px;">Birthdate Column </h1>
+<h1 style="font-size: 18px;">Birthdate Column </h1>
 
 The birthdate column underwent a meticulous cleaning process, addressing variations in date formats. The resulting uniformity was enforced by modifying the column type to `DATE`.
 
-<h1 style="font-size: 20px;">Hire Date Column </h1>
+<h1 style="font-size: 18px;">Hire Date Column </h1>
 
 Similar to the birthdate column, the hire date column underwent cleaning to standardize date formats, and the column type was adjusted to `DATE` for consistency.
 
-<h1 style="font-size: 20px;">Termination Date Column  </h1>
+<h1 style="font-size: 18px;">Termination Date Column  </h1>
 
 The termination date format was updated, and special consideration was given to cases where the date format included time information. The column type was then modified to `DATE`.
 
